@@ -8,4 +8,4 @@ Tampoermonkey script for remove the X favicon and replace with your favorite blu
 - Copy the code from `back-to-twitter.user.js` and paste it in the new script
 - Save and enjoy
 
-You already have tampermonkey installed? [Click here to install the script]()
+You already have tampermonkey installed? [Click here to install the script](./backToTwitter.user.js)
