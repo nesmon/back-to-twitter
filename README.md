@@ -1,9 +1,9 @@
 # back-to-twitter
-Tampoermonkey script for remove the X favicon and replace with your favorite bluebird
+Tampermonkey script for remove the X favicon and replace with your favorite bluebird
 
 ## Install
 
-- Install Tampormonkey extension for your browser
+- Install Tampermonkey extension for your browser
 - Open the extension and create a new script
 - Copy the code from `back-to-twitter.user.js` and paste it in the new script
 - Save and enjoy
